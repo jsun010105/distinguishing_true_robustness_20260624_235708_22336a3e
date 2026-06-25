@@ -1,0 +1,18 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {
+        "papers_dir": "/workspaces/distinguishing_true_robustness_20260624_235708_22336a3e/papers",
+        "datasets_dir": "/workspaces/distinguishing_true_robustness_20260624_235708_22336a3e/datasets",
+        "code_dir": "/workspaces/distinguishing_true_robustness_20260624_235708_22336a3e/code"
+      },
+      "log_file": "/workspaces/distinguishing_true_robustness_20260624_235708_22336a3e/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/distinguishing_true_robustness_20260624_235708_22336a3e/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 2034.572289466858
+    }
+  },
+  "work_dir": "/workspaces/distinguishing_true_robustness_20260624_235708_22336a3e"
+}
